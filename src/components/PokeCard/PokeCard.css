@@ -1,0 +1,20 @@
+.card {
+  background:rgb(211, 93, 89);
+  border-radius: 2px;
+  height: 125px;
+  margin: 15px;
+  position: relative;
+  width: 125px;
+  box-shadow: 9px 6px #999, 9px 6px #999;
+}
+
+.img-container {
+  text-align: center;
+  height: 100%;
+  padding: 10px;
+}
+
+img {
+  height: 90%;
+  width: 90%;
+}

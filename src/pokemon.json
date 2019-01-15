@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1891758-001bulbasaur.png"
+  },
+  {
+    "id": 2,
+    "name": "Charmander",
+    "image": "https://static.giantbomb.com/uploads/scale_small/0/6087/2438704-1202149925_t.png"
+  },
+  {
+    "id": 3,
+    "name": "Squirtle",
+    "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1891764-007squirtle.png"
+  },
+  {
+    "id": 4,
+    "name": "Pikachu",
+    "image": "https://static.giantbomb.com/uploads/scale_small/0/6087/2437349-pikachu.png"
+  },
+  {
+    "id": 5,
+    "name": "Jigglypuff",
+    "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1892299-039jigglypuff.png"
+  },
+  {
+    "id": 6,
+    "name": "Onix",
+    "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1891842-095onix.png"
+  },
+  {
+    "id": 7,
+    "name": "Staryu",
+    "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1892685-120staryu.png"
+  },
+  {
+    "id": 8,
+    "name": "Snorlax",
+    "image": "https://static.giantbomb.com/uploads/scale_small/0/4986/406919-143snorlax.png"
+  },
+  {
+    "id": 9,
+    "name": "Mewtwo",
+    "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1895869-150mewtwo.png"
+  },
+  {
+    "id": 10,
+    "name": "Cubone",
+    "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1891845-104cubone.png"
+  },
+  {
+    "id":11,
+    "name": "Voltorb",
+    "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1892678-100voltorb.png"
+  },
+  {
+    "id": 12,
+    "name": "Nicki Minaj",
+    "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1898290-124jynx.png"
+  }
+]

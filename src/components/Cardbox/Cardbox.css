@@ -1,0 +1,9 @@
+.cardbox {
+  padding-top: 20px;
+  width: 60%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+}
