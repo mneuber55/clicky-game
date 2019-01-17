@@ -1,6 +1,6 @@
 .cardbox {
   padding-top: 20px;
-  width: 60%;
+  width: 750px;
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
